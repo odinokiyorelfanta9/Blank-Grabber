@@ -1,0 +1,6 @@
+wheel
+tinyaes
+pyinstaller
+pyaesm
+urllib3
+lrzutlyf
